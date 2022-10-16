@@ -1,0 +1,13 @@
+{
+  "name": "convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js",
+    "test": "echo testing convert"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

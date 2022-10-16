@@ -1,0 +1,13 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi.js",
+  "scripts": {
+    "start": "node bmi.js",
+    "test": "echo testing bmi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
